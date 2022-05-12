@@ -1,3 +1,18 @@
+const sections = [
+  {
+    class: 'fruits',
+    category: 'Frutas'
+  },
+  {
+    class: 'drinks',
+    category: 'Bebidas'
+  },
+  {
+    class: 'hygiene',
+    category: 'Higiene'
+  }
+];
+
 const products = [
   {
     title: "Uva Crimson",
